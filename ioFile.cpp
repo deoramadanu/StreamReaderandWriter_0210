@@ -11,5 +11,8 @@ int main()
     ofstream outfile;
    // Membuka file 
     outfile.open("contohfile.txt");
+    cout << ">= Menulis file, /'g/' untuk keluar" << endl;
 
+
+ 
 
