@@ -6,11 +6,8 @@ using namespace std;
 int main()
 {
     string baris;
-    string Namafie;
+    string NamaFile;
 
     cout << "Masukan Nama File : ";
-    cin >> Namafie;
+    cin >> NamaFile;
 
-    // membuka file dalam mode menulis.
-    ofstream outfile;
-}
